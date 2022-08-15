@@ -1,11 +1,24 @@
 {
   "eng": [
     { "text": "I'm Batman", "author": "Batman" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "text": "I'm gonna put some dirt in your eye!", "author": "Bully Maguire"},
+    { "text": "This is just not Beckham's day", "author": "Pepsi commercial"},
+    { "text": "Hey, how you doin?", "author": "Joey Tribbiani"},
+    { "text": "My back! My back!", "author": "Spider-Man"},
+    { "text": "You known, i'm Something of a Scientist Myself", "author": "Norman Osborn"},
+    { "text": "D'oh!", "author": "Homer Jay Simpson"},
+    { "text": "Hello There!", "author": "Obi-Wan Kenobi"},
+    { "text": "Every Happy Ending Has The Day After The Happy Ending", "author": "Diane Nguyen"}
   ],
   "ru": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "text": "Я - Бэтмен", "author": "Бэтмен" },
+    { "text": "I'm gonna put some dirt in your eye!", "author": "Булли Магуайер"},
+    { "text": "Просто это не день Бэкхема", "author": "Реклама Пепси"},
+    { "text": "Эй, хау ю дуин??", "author": "Джоуи Трибиани"},
+    { "text": "Май Бэк! Май Бэк!", "author": "Человек-паук"},
+    { "text": "Знаете, я и сам своего рода учёный", "author": "Норман Озборн"},
+    { "text": "Д'оу!!", "author": "Гомер Джей Симпсон"},
+    { "text": "Хэллоу Тзэр", "author": "Оби-Ван Кеноби"},
+    { "text": "После каждого Счастливого Финала наступает день после", "author": "Дайэн Нгуен"}
   ]
 }
