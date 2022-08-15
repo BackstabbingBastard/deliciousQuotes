@@ -8,7 +8,10 @@
     { "text": "You known, i'm Something of a Scientist Myself", "author": "Norman Osborn"},
     { "text": "D'oh!", "author": "Homer Jay Simpson"},
     { "text": "Hello There!", "author": "Obi-Wan Kenobi"},
-    { "text": "Every Happy Ending Has The Day After The Happy Ending", "author": "Diane Nguyen"}
+    { "text": "Every Happy Ending Has The Day After The Happy Ending", "author": "Diane Nguyen"},
+    { "text": "I didn't say any of that", "author": "Jason Statham"},
+    { "text": "I'm Batman", "author": "Deadpool"},
+    { "text": "These aren't the droids we're looking for", "author": "Stormtrooper"}
   ],
   "ru": [
     { "text": "Я - Бэтмен", "author": "Бэтмен" },
@@ -19,6 +22,10 @@
     { "text": "Знаете, я и сам своего рода учёный", "author": "Норман Озборн"},
     { "text": "Д'оу!!", "author": "Гомер Джей Симпсон"},
     { "text": "Хэллоу Тзэр", "author": "Оби-Ван Кеноби"},
-    { "text": "После каждого Счастливого Финала наступает день после", "author": "Дайэн Нгуен"}
+    { "text": "После каждого Счастливого Финала наступает день после", "author": "Дайэн Нгуен"},
+    { "text": "Я ничего из этого не говорил", "author": "Джейсон Стэйтхэм"},
+    { "text": "Я - Бэтмен", "author": "Дэдпул"},
+    { "text": "Это не те дроиды, что мы ищем", "author": "Штурмовик"}
+    
   ]
 }
