@@ -1,3 +1,5 @@
+{
+  "eng": [
     {
       "text": "I'm Batman",
       "author": "Batman"
@@ -34,3 +36,11 @@
         "text": "Every Happy Ending Has The Day After The Happy Ending",
         "author": "Diane Nguyen"
       }
+  ],
+  "rus": [
+    {
+      "text": "Я Бэтман",
+      "author": "Бэтман"
+    }
+  ]
+}
