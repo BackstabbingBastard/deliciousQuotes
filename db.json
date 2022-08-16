@@ -15,7 +15,8 @@
     { "text": "Boy...", "author": "Kratos"},
     { "text": "You, you. Give me, warm. Give me, soft.", "author": "Snuggly the Crow"},
     { "text": "I Love Democracy. I Love The Republic.", "author": "Palpatine"},
-    { "text": "That explains the Laser-Raptor", "author": "Kung Fury"}
+    { "text": "That explains the Laser-Raptor", "author": "Kung Fury"},
+    { "text": "...", "author": "Dr. Gordon Freeman"}
   ],
   "ru": [
     { "text": "Я - Бэтмен", "author": "Бэтмен" },
@@ -26,13 +27,14 @@
     { "text": "Знаете, я и сам своего рода учёный", "author": "Норман Озборн"},
     { "text": "Д'оу!!", "author": "Гомер Джей Симпсон"},
     { "text": "Хэллоу тзэр", "author": "Оби-Ван Кеноби"},
-    { "text": "После каждого Счастливого Финала наступает день после", "author": "Дайэн Нгуен"},
+    { "text": "После каждого «Счастливого Финала» наступает день после", "author": "Дайэн Нгуен"},
     { "text": "Я ничего из этого не говорил", "author": "Джейсон Стэйтхэм"},
     { "text": "Я - Бэтмен", "author": "Дэдпул"},
     { "text": "Это не те дроиды, что мы ищем", "author": "Штурмовик"},
     { "text": "Боой...", "author": "Кратос"},
     { "text": "Ты, ты. Дай мне тепла. Дай мне мягкости", "author": "Снаггли Ворона"},
     { "text": "Я люблю демократию. Я люблю республику", "author": "Палпатин"},
-    { "text": "Это объясняет наличие лазераптора", "author": "Кунг Фьюри"}
+    { "text": "Это объясняет наличие лазераптора", "author": "Кунг Фьюри"},
+    { "text": "...", "author": "Гордон Фримен"}
   ]
 }
