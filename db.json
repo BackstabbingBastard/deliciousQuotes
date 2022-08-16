@@ -17,7 +17,9 @@
     { "text": "I Love Democracy. I Love The Republic.", "author": "Palpatine"},
     { "text": "That explains the Laser-Raptor", "author": "Kung Fury"},
     { "text": "...", "author": "Dr. Gordon Freeman"},
-    { "text": "The Owls Are Not What They Seem", "author": "The Giant"}
+    { "text": "The Owls Are Not What They Seem", "author": "The Giant"},
+    { "text": "This is - excuse me - a damn fine cup of coffee.", "author": "Dale Cooper"}
+    
   ],
   "ru": [
     { "text": "Я - Бэтмен", "author": "Бэтмен" },
@@ -37,6 +39,7 @@
     { "text": "Я люблю демократию. Я люблю республику", "author": "Палпатин"},
     { "text": "Это объясняет наличие лазераптора", "author": "Кунг Фьюри"},
     { "text": "...", "author": "Гордон Фримен"},
-    { "text": "Совы не то, чем кажутся", "author": "Великан"}
+    { "text": "Совы не то, чем кажутся", "author": "Великан"},
+    { "text": "Это - простите - чертовски хороший кофе", "author": "Дэйл Купер"}
   ]
 }
