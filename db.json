@@ -16,7 +16,8 @@
     { "text": "You, you. Give me, warm. Give me, soft.", "author": "Snuggly the Crow"},
     { "text": "I Love Democracy. I Love The Republic.", "author": "Palpatine"},
     { "text": "That explains the Laser-Raptor", "author": "Kung Fury"},
-    { "text": "...", "author": "Dr. Gordon Freeman"}
+    { "text": "...", "author": "Dr. Gordon Freeman"},
+    { "text": "The Owls Are Not What They Seem", "author": "The Giant"}
   ],
   "ru": [
     { "text": "Я - Бэтмен", "author": "Бэтмен" },
@@ -35,6 +36,7 @@
     { "text": "Ты, ты. Дай мне тепла. Дай мне мягкости", "author": "Снаггли Ворона"},
     { "text": "Я люблю демократию. Я люблю республику", "author": "Палпатин"},
     { "text": "Это объясняет наличие лазераптора", "author": "Кунг Фьюри"},
-    { "text": "...", "author": "Гордон Фримен"}
+    { "text": "...", "author": "Гордон Фримен"},
+    { "text": "Совы не то, чем кажутся", "author": "Великан"}
   ]
 }
