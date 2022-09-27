@@ -19,7 +19,7 @@
     { "text": "...", "author": "Dr. Gordon Freeman"},
     { "text": "The Owls Are Not What They Seem", "author": "The Giant"},
     { "text": "This is - excuse me - a damn fine cup of coffee.", "author": "Dale Cooper"},
-    { "text": "Toasty!", "author": "Dan Forden (Mortal Kombat)"}
+    { "text": "Toasty!", "author": "Dan Forden"}
     
   ],
   "ru": [
@@ -42,7 +42,7 @@
     { "text": "...", "author": "Гордон Фримен"},
     { "text": "Совы не то, чем кажутся", "author": "Великан"},
     { "text": "Это - простите - чертовски хороший кофе", "author": "Дэйл Купер"},
-    { "text": "Тоостии!", "author": "Дэн Фоден (Мортал Комбат)"}
+    { "text": "Тоостиии!", "author": "Дэн Фоден"}
     
   ]
 }
